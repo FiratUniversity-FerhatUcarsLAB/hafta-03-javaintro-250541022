@@ -2,11 +2,10 @@ public class IsimKarti {
 
     public static void main(String[] args) {
         
-        // Buradaki bilgileri kendi bilgilerinizle değiştirebilirsiniz
-        String ad = "Ahmet";
-        String soyad = "Yılmaz";
-        String ogrenciNo = "123456789";
-        String bolum = "Bilgisayar Mühendisliği";
+        String ad = "Elif";
+        String soyad = "Babürhan";
+        String ogrenciNo = "25054022";
+        String bolum = "Yazılım Mühendisliği";
 
         System.out.println("4.1 - İsim Kartı:");
         System.out.println("*************************************************");
@@ -26,3 +25,4 @@ public class IsimKarti {
         System.out.println("*************************************************");
     }
 }
+
